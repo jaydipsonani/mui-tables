@@ -1,0 +1,28 @@
+.edit-popup{
+    width: 126px;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid rgb(224, 224, 224, 1);
+    border-radius: 5px;
+}
+.edit-icon{
+    margin-left: 20px;
+}
+
+.table-head{
+    background-color: #F7F9FC;
+}
+.table-row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.collapse-open{
+    background-color: #F7F9FC;
+}
+.mainTableRow img{
+    position: absolute;
+    top: 13px;
+}

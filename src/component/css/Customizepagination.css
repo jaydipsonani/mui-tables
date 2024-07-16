@@ -1,0 +1,23 @@
+.custom-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+}
+
+.pagination-controls {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.select-menu select{
+  border: none;
+}
+.select-menu{
+  /* margin-right: 40px; */
+}
+
+.pagination-info {
+  margin-right: auto;
+}

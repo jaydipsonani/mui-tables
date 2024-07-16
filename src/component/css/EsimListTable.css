@@ -1,0 +1,72 @@
+.tableHead{
+    background-color: #F7F9FC;
+  }
+  .collapseOpen{
+    background-color: #F7F9FC;
+  }
+  .checkbox{
+    width: 46px;
+    padding: 50px;
+  }
+  .collapse{
+    width: 36px;
+  }
+  .id{
+    width: 48px;
+  }
+  .iccid{
+    width: 504px;
+  }
+  .AccountId{
+    width: 150px;
+  }
+  .country{
+    width: 150px;
+  }
+  .reInstall{
+    width: 150px;
+  }
+
+  .mainTableRow img{
+    position: absolute;
+    top: 12px;
+  }
+
+  .collapseTable{
+    height: 64px;
+  }
+
+   .tableRow{
+    background-color: #F7F9FC;
+   }
+
+
+  .collapse-margin{
+    margin: 0px 16px 0px 16px
+  }
+  .css-1ygcj2i-MuiTableCell-root{
+    padding: 0px !important;
+  }
+  .css-1ex1afd-MuiTableCell-root{
+    padding: 0px !important;
+  }
+  .css-dsuxgy-MuiTableCell-root{
+    padding: 0px !important;
+  }
+  .emptySpace{
+    width: 46px;
+  }   
+  .installTime{
+    width: 157px;
+  }
+  .esimType{
+    width: 157px;
+  }
+  .insallDevice{
+    width: 156px;
+  }
+  .status{
+    width: 206px;
+  }
+
+  

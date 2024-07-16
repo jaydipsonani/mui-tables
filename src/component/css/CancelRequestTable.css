@@ -1,0 +1,94 @@
+.main-popup{
+    border: none;
+    border-radius: 10px;
+}
+.edit-popup{
+    width: 150px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #E9EDF5;
+    border-radius: 10px;
+}
+.active-class{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.edit-icon{
+    margin-left: 20px;
+}
+.table-head{
+    background-color: #F7F9FC;
+
+}
+.css-3bmhjh-MuiPaper-root-MuiPopover-paper{
+    border-radius: 10px !important;
+}
+
+.collapse-open{
+    background-color: #F7F9FC;
+}
+.tableRow{
+    background-color: #F7F9FC;
+
+}
+
+.checkbox{
+    width: 46px;
+}
+.collapse{
+    width: 36px;
+    
+}
+.id{
+    width: 48px;
+
+}
+.date{
+    width: 105px;
+}
+.accountId{
+    width: 121px;
+}
+.name{
+    width: 174px;
+}
+.country{
+    width: 104px;
+}
+.mobile{
+    width: 150px;
+}
+.email{
+    width: 150px;
+}
+.status{
+    width: 150px;
+} 
+.emptySpace{
+    width: 46px;
+}
+.plan{
+    width: 207.6px;
+}
+.iccid{
+    width: 207.6px;
+}
+.planStatus{
+    width: 207.6px;
+}
+.refund{
+    width: 207.6px;
+}
+.planButton{
+    width: 207.6px;
+}
+
+.mainTableRow img{
+    position: absolute;
+    top: 13px
+}

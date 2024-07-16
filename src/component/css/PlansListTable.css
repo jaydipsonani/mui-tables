@@ -1,0 +1,73 @@
+.tableHead{
+  background-color: #F7F9FC;
+}
+
+.collapseOpen{
+  background-color: #F7F9FC;
+}
+.tableRow{
+  background-color: #F7F9FC;
+}
+.checkbox{
+  width: 34px;
+}
+.collapse{
+  width: 36px;
+}
+.id{
+  width: 48px;
+}
+.date{
+  width: 150px;
+}
+.AccountId{
+  width: 120px;
+}
+.name{
+  width: 200px;
+}
+.destination{
+  width: 150px;
+}
+.data{
+  width: 167px;
+}
+.days{
+  width: 167px;
+}
+
+.mainTableRow img{
+  position: absolute;
+  top: 13px;
+}
+
+.collapseTable{
+  height: 64px;
+}
+.table-row{
+  height: 48px;
+}
+.collapse-margin{
+  margin: 0px 16px 0px 16px
+}
+.css-1ygcj2i-MuiTableCell-root{
+  padding: 0px !important;
+}
+.css-1ex1afd-MuiTableCell-root{
+  padding: 0px !important;
+}   
+.os{
+  width: 206px;
+}
+.esimType{
+  width: 206px;
+}
+.iccid{
+  width: 206px
+}
+.status{
+  width: 410px;
+}
+.emptySpace{
+  width: 46px;
+}

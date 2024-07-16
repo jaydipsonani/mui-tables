@@ -1,0 +1,18 @@
+.icon{
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    border: 1px solid #868FA0;
+    border-radius: 50%;
+}
+
+.btn{
+    width: 80px;
+    height: 25px;
+    border-radius: 20px;
+    padding: 5px 8px 5px 8px;
+    color: #1A932E;
+    border: 1px solid #72e084;
+    text-align: center;
+    background-color: #bae9c2;
+}

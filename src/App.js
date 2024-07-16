@@ -1,23 +1,26 @@
 import logo from './logo.svg';
 import './App.css';
+import DetailListTable from './component/DetailListTable';
+import SuccessFullList from './component/SuccessFullListTable';
+import MyTable from './component/SuccessFullListTable';
+import FailedListTable from './component/FailedListTable';
+import PlanListTable from './component/PlansListTable';
+import EsimListTable from './component/EsimListTable';
+import UserTable from './component/UsersTable';
+import CancelRequest from './component/CancelRequestTable';
+// import DataTable from './Table';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <DataTable /> */}
+      {/* <DetailListTable /> */}
+      <SuccessFullList />
+      {/* <FailedListTable /> */}
+      {/* <PlanListTable /> */}
+      {/* <EsimListTable /> */}
+      {/* <UserTable /> */}
+      {/* <CancelRequest /> */}
     </div>
   );
 }
